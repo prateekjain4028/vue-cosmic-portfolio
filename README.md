@@ -1,4 +1,4 @@
-# Vue Cosmic Portfolio
+# Vue Cosmic awesome Portfolio
 Portfolio app built using Vue and CosmicJS
 
 ## Install
